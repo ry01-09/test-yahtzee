@@ -1,6 +1,6 @@
 {
   "name": "Yahtzee_ios (2)",
-  "short_name": "Yahtzee 6",
+  "short_name": "Yahtzee",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

@@ -1,6 +1,6 @@
 // オフラインでも起動できるよう、アプリのファイルを最初の読み込みで保存しておく。
 // 作品を作り直したときは、変換ツールが VERSION を変えるので、古い保存分は消える。
-const VERSION = '8e422436b201';
+const VERSION = 'a9aa3579a10c';
 const CACHE = 'sb3-pwa-' + VERSION;
 const FILES = [
   './',
